@@ -201,6 +201,7 @@ img {
 .home__title {
   font-size: var(--big-font-size);
   margin-bottom: var(--mb-5);
+  color: #051173;
 }
 
 .home__title-color {
@@ -216,7 +217,7 @@ img {
   width: max-content;
   margin-bottom: var(--mb-2);
   font-size: 1.5rem;
-  color: var(--second-color);
+  color: #051173;
 }
 
 .home__social-icon:hover {
@@ -381,7 +382,7 @@ img {
 
 /* ===== FOOTER =====*/
 .footer {
-  background-color: var(--second-color);
+  background-color: #051173;
   color: #fff;
   text-align: center;
   font-weight: var(--font-semi);
