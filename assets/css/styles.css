@@ -25,19 +25,6 @@
   --z-back: -10;
   --z-fixed: 100;
 }
-.yvideo{
-  position: relative; 
-  width: 100%;
-  padding-bottom: 75%;
-}
-
-.yvideo iframe{
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  border: none;
-}
-
 @media screen and (min-width: 968px) {
   :root {
     --big-font-size: 3.5rem;
@@ -431,7 +418,6 @@ img {
 }
 
 @media screen and (min-width: 576px) {
-  
   .home {
     padding: 4rem 0 2rem;
   }
