@@ -14,5 +14,5 @@
  </p>
  <p align="center">
   Página para novos colaboradores da empresa, com explicações e tutoriais.
-  <img src="/assets/img/Git_print.jpg" alt="Print"/>
+  <img src="/assets/img/Git_print.png" alt="Print"/>
  </p>
